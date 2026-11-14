@@ -2,3 +2,4 @@ echo
 ls
 a b
 This line was added in feature-a
+Another change made directly in main
